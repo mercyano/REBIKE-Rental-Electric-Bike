@@ -1,6 +1,6 @@
 # rebike
 
-A new Flutter project.
+Disusun untuk memenuhi tugas mata kuliah Analisis Desain dan Sistem.
 
 ## Getting Started
 
